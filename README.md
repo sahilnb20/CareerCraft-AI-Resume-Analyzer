@@ -35,7 +35,7 @@ AI-powered Resume Analyzer built with Python and Streamlit. Upload your resume t
 1. Install dependencies from requirements
 2. Open the project in VS code
 3. Then open App folder 
-4. Run the App.py file using streamlit run App/App.py command
+4. Run the App.py file using "streamlit run App/App.py" command
 5. Upload your resume and explore the analysis results  
 
 ---
