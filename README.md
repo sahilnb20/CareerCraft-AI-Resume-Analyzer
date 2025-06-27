@@ -32,9 +32,11 @@ AI-powered Resume Analyzer built with Python and Streamlit. Upload your resume t
 
 ## ⚙️ **How to Run**
 
-1. Install dependencies:  
-3. Open the provided local URL in your browser  
-4. Upload your resume and explore the analysis results  
+1. Install dependencies from requirements
+2. Open the project in VS code
+3. Then open App folder 
+4. Run the App.py file using streamlit run App/App.py command
+5. Upload your resume and explore the analysis results  
 
 ---
 
@@ -43,7 +45,7 @@ AI-powered Resume Analyzer built with Python and Streamlit. Upload your resume t
 - Advanced AI model for deeper resume analysis  
 - Database integration for user data storage  
 - Exportable PDF report of resume feedback  
-- Login system for both users and admin  
+- Login system for admin  
 - Skill recommendation based on job role  
 
 ---
